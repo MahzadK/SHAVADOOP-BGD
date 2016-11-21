@@ -1,4 +1,5 @@
-# SHAVADOOP-Charlotte ELI & Mahzad KALANTARI
+# SHAVADOOP
+## Charlotte ELI & Mahzad KALANTARI
 
 Lauch master.jar with the arguments below:
 
