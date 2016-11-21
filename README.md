@@ -1,4 +1,4 @@
-# SHAVADOOP-BGD
+# SHAVADOOP-Charlotte ELI & Mahzad KALANTARI
 
 Lauch master.jar with the arguments below:
 
